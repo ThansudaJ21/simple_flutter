@@ -1,4 +1,4 @@
-package com.example.simple_flutter
+package com.camt.flutter.android.thansuda
 
 import io.flutter.embedding.android.FlutterActivity
 
